@@ -1,0 +1,37 @@
+collections:
+  authors:
+    output: true
+
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: single
+    author_profile: true
+
+plugins: 
+- jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+title: "Personal website of Zixuan Chen"
+
+url: "https://zixuanczx.github.io/"
+
+atom_feed:
+  hide: true
+
+author:
+  name     : "Zixuan Chen (陈子轩)"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Third year PhD student at NEU"
+  location : "Boston, USA"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=nazfOC0AAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zxchen-88"
