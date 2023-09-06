@@ -8,6 +8,14 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html {
+    background-color: white;
+}
+
+.greedy-nav {
+    background-color: white;
+}
+
 #main {
     animation: none;
     -webkit-animation: none;
