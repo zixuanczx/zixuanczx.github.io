@@ -18,7 +18,7 @@ For example, <a href="https://northeastern-datalab.github.io/whynotyet/">our rec
 <ul>
 {% for paper in site.data.publication %}
     <li>
-        <b>{{ paper.title }}</b><br>
+        <em>{{ paper.title }}</em><br>
         {{ paper.author }}<br>
         <a href="{{ paper.link }}">
             {{ paper.where }}
@@ -27,4 +27,11 @@ For example, <a href="https://northeastern-datalab.github.io/whynotyet/">our rec
 {% endfor %}
 </ul>
 
+<script>
+    if (Math.random() > 0.5) {
+        document.getElementsByClassName("site-title")[0].innerHTML = "Personal website of Zixuan Chen";
+    } else {
+        document.getElementsByClassName("site-title")[0].innerHTML = "Personal website of 陈子轩";
+    }
+</script>
 

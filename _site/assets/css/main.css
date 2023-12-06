@@ -1279,18 +1279,24 @@ html { background-color: white; }
 
 .greedy-nav { background-color: white; }
 
+.page__footer { animation: none; -webkit-animation: none; background-color: #35a8ad; }
+
+.me { color: #35a8ad; }
+
 #main { animation: none; -webkit-animation: none; }
 
 .masthead { animation: none; -webkit-animation: none; }
 
 .sidebar { opacity: 1; transition: none; -webkit-transition: none; }
 
+.site-title { font-weight: unset; }
+
+.author__name { font-weight: unset; }
+
+h2 { font-weight: unset; }
+
 .author__avatar img { padding: 0; border: 0; max-width: 200px; }
 
 .page { padding-right: 0; }
 
 ul { list-style-type: circle; }
-
-.page__footer { animation: none; -webkit-animation: none; background-color: #35a8ad; }
-
-.me { color: #35a8ad; }

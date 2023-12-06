@@ -8,6 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Colors
 html {
     background-color: white;
 }
@@ -16,6 +17,17 @@ html {
     background-color: white;
 }
 
+.page__footer {
+    animation: none;
+    -webkit-animation: none;
+    background-color: #35a8ad;
+}
+
+.me {
+    color: #35a8ad;
+}
+
+// No animation
 #main {
     animation: none;
     -webkit-animation: none;
@@ -32,26 +44,33 @@ html {
     -webkit-transition: none;
 }
 
+// No bold font
+.site-title {
+    font-weight: unset;
+}
+
+.author__name  {
+    font-weight: unset;
+}
+
+h2 {
+    font-weight: unset;
+}
+
+// Image size
 .author__avatar img {
     padding: 0;
     border: 0;
     max-width: 200px;
 }
 
+// Page setup
 .page {
     padding-right: 0;
 }
 
+// List style
 ul {
     list-style-type: circle;
 }
 
-.page__footer {
-    animation: none;
-    -webkit-animation: none;
-    background-color: #35a8ad;
-}
-
-.me {
-    color: #35a8ad;
-}
