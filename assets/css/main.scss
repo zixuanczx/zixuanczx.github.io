@@ -13,6 +13,8 @@ html {
     background-color: white;
 }
 
+::selection { color: white; background: lightblue; }
+
 .greedy-nav {
     background-color: white;
 }

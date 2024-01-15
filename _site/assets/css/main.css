@@ -1277,6 +1277,8 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
 html { background-color: white; }
 
+::selection { color: white; background: lightblue; }
+
 .greedy-nav { background-color: white; }
 
 .page__footer { animation: none; -webkit-animation: none; background-color: #35a8ad; }
