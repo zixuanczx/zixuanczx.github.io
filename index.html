@@ -33,5 +33,14 @@ For example, <a href="https://northeastern-datalab.github.io/whynotyet/">our rec
     } else {
         document.getElementsByClassName("site-title")[0].innerHTML = "Personal website of 陈子轩";
     }
+    if (Math.random() <= 0.33) {
+        document.getElementsByClassName("author__avatar")[0].innerHTML = "<img src=\"/assets/images/chen.jpg\" alt=\"Zixuan Chen (陈子轩)\" itemprop=\"image\">";
+    } else if (Math.random() <= 0.66) {
+        document.getElementsByClassName("author__avatar")[0].innerHTML = "<img src=\"/assets/images/smile.jpg\" alt=\"Zixuan Chen (陈子轩)\" itemprop=\"image\">";
+    } else if (Math.random() <= 0.99) {
+        document.getElementsByClassName("author__avatar")[0].innerHTML = "<img src=\"/assets/images/laugh.jpg\" alt=\"Zixuan Chen (陈子轩)\" itemprop=\"image\">";
+    } else {
+        document.getElementsByClassName("author__avatar")[0].innerHTML = "<img src=\"/assets/images/poster.jpg\" alt=\"Zixuan Chen (陈子轩)\" itemprop=\"image\">";
+    }
 </script>
 

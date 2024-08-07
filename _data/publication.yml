@@ -1,6 +1,12 @@
+- title: "Finding Linear Explanations for a Given Ranking"
+  author: <b class="me">Zixuan Chen</b>, Panagiotis Manolios, Mirek Riedewald
+  where: arXiv 
+  link: https://arxiv.org/abs/2406.11797
+
 - title: "HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property"
   author: <b class="me">Zixuan Chen</b>, Subhodeep Mitra, R. Ravi, Wolfgang Gatterbauer
   where: ICDE 2024
+  link: https://ieeexplore.ieee.org/document/10598167
 
 - title: "SANTOS: Relationship-based Semantic Table Union Search"
   author: Aamod Khatiwada, Grace Fan, Roee Shraga, <b class="me">Zixuan Chen</b>, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald
