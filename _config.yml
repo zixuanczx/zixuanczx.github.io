@@ -26,7 +26,7 @@ atom_feed:
 author:
   name     : "Zixuan Chen (陈子轩)"
   avatar   : "/assets/images/chen.jpg"
-  bio      : "Fourth year PhD student at NEU"
+  bio      : "Fifth year PhD student at NEU"
   location : "Boston, USA"
   links:
     - label: "Google Scholar"
