@@ -1,7 +1,6 @@
-- title: "Finding Linear Explanations for a Given Ranking"
+- title: "Synthesizing Scoring Functions for Rankings Using Symbolic Gradient Descent"
   author: <b class="me">Zixuan Chen</b>, Panagiotis Manolios, Mirek Riedewald
-  where: arXiv 
-  link: https://arxiv.org/abs/2406.11797
+  where: ICDE 2025
 
 - title: "HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property"
   author: <b class="me">Zixuan Chen</b>, Subhodeep Mitra, R. Ravi, Wolfgang Gatterbauer
