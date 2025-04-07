@@ -1,6 +1,10 @@
+- title: "GooseDB: A Database Engine that Optimally Refines Top-𝑘 Queries to Satisfy Representation Constraints"
+  author: <b class="me">Zixuan Chen</b>, Jinyang Li, H. V. Jagadish, Mirek Riedewald
+  where: Under submission
+
 - title: "Synthesizing Scoring Functions for Rankings Using Symbolic Gradient Descent"
   author: <b class="me">Zixuan Chen</b>, Panagiotis Manolios, Mirek Riedewald
-  where: ICDE 2025
+  where: ICDE 2025 (Accepted, to appear)
 
 - title: "HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property"
   author: <b class="me">Zixuan Chen</b>, Subhodeep Mitra, R. Ravi, Wolfgang Gatterbauer
@@ -18,7 +22,7 @@
   link: https://dl.acm.org/doi/10.14778/3598581.3598606
 
 - title: 一种基于树分解的图上点区间编码方法及应用
-  author: <b class="me">陈子轩</b>， 何震瀛， 荆一楠
+  author: <b class="me">陈子轩</b>, 何震瀛， 荆一楠
   where: 计算机应用与软件 39(3)
   link: https://www.shcas.net/jsjyup/pdf/2022/3/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E6%A0%91%E5%88%86%E8%A7%A3%E7%9A%84%E5%9B%BE%E4%B8%8A%E7%82%B9%E5%8C%BA%E9%97%B4%E7%BC%96%E7%A0%81%E6%96%B9%E6%B3%95%E5%8F%8A%E5%BA%94%E7%94%A8.pdf
 
