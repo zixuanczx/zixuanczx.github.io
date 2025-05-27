@@ -1,5 +1,6 @@
-- title: "GooseDB: A Database Engine that Optimally Refines Top-k Queries to Satisfy Representation Constraints (Under submission)"
+- title: "GooseDB: A Database Engine that Optimally Refines Top-k Queries to Satisfy Representation Constraints"
   author: <b class="me">Zixuan Chen</b>, Jinyang Li, H. V. Jagadish, Mirek Riedewald
+  where: VLDB 2025 Demo (Accepted, to appear)
 
 - title: "Synthesizing Scoring Functions for Rankings Using Symbolic Gradient Descent"
   author: <b class="me">Zixuan Chen</b>, Panagiotis Manolios, Mirek Riedewald
