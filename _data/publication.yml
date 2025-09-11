@@ -1,10 +1,12 @@
 - title: "GooseDB: A Database Engine that Optimally Refines Top-k Queries to Satisfy Representation Constraints"
   author: <b class="me">Zixuan Chen</b>, Jinyang Li, H. V. Jagadish, Mirek Riedewald
-  where: VLDB 2025 Demo (Accepted, to appear)
+  where: VLDB 2025 Demo
+  link: https://www.vldb.org/pvldb/vol18/p5351-chen.pdf
 
 - title: "Synthesizing Scoring Functions for Rankings Using Symbolic Gradient Descent"
   author: <b class="me">Zixuan Chen</b>, Panagiotis Manolios, Mirek Riedewald
-  where: ICDE 2025 (Accepted, to appear)
+  where: ICDE 2025
+  link: https://ieeexplore.ieee.org/document/11113183
 
 - title: "HITSNDIFFS: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property"
   author: <b class="me">Zixuan Chen</b>, Subhodeep Mitra, R. Ravi, Wolfgang Gatterbauer
@@ -19,7 +21,7 @@
 - title: "Why Not Yet: Fixing a Top-k Ranking that Is Not Fair to Individuals"
   author: <b class="me">Zixuan Chen</b>, Panagiotis Manolios, Mirek Riedewald
   where: PVLDB 16(9) (VLDB 2023)
-  link: https://dl.acm.org/doi/10.14778/3598581.3598606
+  link: https://www.vldb.org/pvldb/vol16/p2377-chen.pdf
 
 - title: 一种基于树分解的图上点区间编码方法及应用
   author: <b class="me">陈子轩</b>， 何震瀛， 荆一楠
