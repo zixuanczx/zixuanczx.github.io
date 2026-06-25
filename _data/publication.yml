@@ -1,3 +1,8 @@
+- title: "The Dangerous Impact of Solver Imprecision on Data Management Techniques (and How to Avoid it)"
+  author: <b class="me">Zixuan Chen</b>, Zikun Wang, Panagiotis Manolios, Mirek Riedewald
+  where: EDBT 2027
+  link: 
+
 - title: "GooseDB: A Database Engine that Optimally Refines Top-k Queries to Satisfy Representation Constraints"
   author: <b class="me">Zixuan Chen</b>, Jinyang Li, H. V. Jagadish, Mirek Riedewald
   where: VLDB 2025 Demo
