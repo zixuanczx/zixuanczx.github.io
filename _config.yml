@@ -26,8 +26,8 @@ atom_feed:
 author:
   name     : "Zixuan Chen (陈子轩)"
   avatar   : "/assets/images/chen.jpg"
-  bio      : "Fifth year PhD student at NEU"
-  location : "Boston, USA"
+  bio      : "Postdoc at TUDa"
+  location : "Darmstadt, Germany
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
